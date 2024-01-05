@@ -1,0 +1,14 @@
+*{
+   font-family: monospace;
+}
+@media only screen and (max-width : 780px) {
+   .network-section{
+    width: 100% !important;
+   }
+   .current-user{
+    margin: 8px 10px;
+    margin-left: 10px !important;
+    width: 90% !important;
+    margin-right: 10px !important;
+   }
+}
